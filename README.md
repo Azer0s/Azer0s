@@ -1,4 +1,4 @@
-Hi there, I'm Ariel! 👋
+![](banner.png)
 
 I'm a software developer with an interest in system architecture, concurrency, and language design. I enjoy exploring how things work behind the scenes and applying that knowledge to build efficient and practical solutions.
 
